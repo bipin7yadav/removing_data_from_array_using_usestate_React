@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+}
+
+#h2 {
+  background-color: aqua;
+  padding: 1rem;
+  border-radius: 10px;
+  display: flex;
+}
+
+#remove {
+  position: absolute;
+  right: 0;
+  margin-right: 2rem;
+  padding: 4px;
+  background-color: black;
+  color: whitesmoke;
+}
+
+#clear {
+  padding: 1rem;
+  margin-left: 45%;
+  border-radius: 5px;
+  background-color: black;
+  color: whitesmoke;
+}
